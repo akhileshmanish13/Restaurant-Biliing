@@ -8,4 +8,4 @@ You can order from menu and it generate the bill including all taxes
 ```
 
 # Screenshots
-[!alt text](https://github.com/akhileshmanish13/Restaurant-Biliing/blob/master/rest1.PNG)
+![alt text](https://github.com/akhileshmanish13/Restaurant-Biliing/blob/master/rest1.PNG)
